@@ -1,4 +1,4 @@
-# [CS50x 2021 — Introduction to Computer Science](https://cs50.harvard.edu/x/2021/) - Problem Sets
+# [CS50x 2023 — Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) - Problem Sets
 
 ## [Academic Honesty](https://cs50.harvard.edu/x/2021/honesty/)
 
